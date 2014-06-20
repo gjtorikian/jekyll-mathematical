@@ -4,6 +4,7 @@ require 'mathematical'
 module Jekyll
   module Converters
     class Mathematical < Converter
+      priority :highest
 
       def matches(ext)
         ext =~ /^\.md$/i
