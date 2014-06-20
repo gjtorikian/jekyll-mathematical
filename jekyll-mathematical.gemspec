@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name                  = "jekyll-mathematical"
-  s.version               = "0.0.1"
+  s.version               = "0.1.0"
   s.summary               = "A converter for Jekyll to turn math into images."
   s.authors               = "Garen J. Torikian"
   s.homepage              = "https://github.com/gjtorikian/jekyll-mathematical"
