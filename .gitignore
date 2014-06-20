@@ -2,3 +2,4 @@
 _site/
 Gemfile.lock
 spec/dev/null.txt
+pkg/
